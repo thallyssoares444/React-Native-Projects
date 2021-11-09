@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jogo-da-adivinhacao",
+    "slug": "jogo-da-adivinhacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jogo-da-adivinhacao"
+}
